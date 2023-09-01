@@ -63,7 +63,6 @@
         auditBind();
         playPauseBind();
         progressBind();
-        bufferBind();
     }
 
     /**
